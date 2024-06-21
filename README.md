@@ -1,9 +1,8 @@
 ### Hi there 
 
-- 🔭 I’m currently working on [Herotable](https://github.com/yazanqwaider/herotable)
-- 🌱 I’m currently learning (GraphQL, node.js, Python)
-- 💬 Ask me about (php, VueJs, laravel, mysql, css frameworks)
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yazanqwaider)
+- 🔭 I’m currently working on [Herotable](https://github.com/yazanqwaider/herotable), and [Editorjs Html Viewer](https://github.com/yazanqwaider/editorjs-html-viewer)
+- 💬 Ask me about (php, JS, VueJs, laravel, mysql, and css frameworks)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yazanqwaider), or [My Website](https://yazanqwaider.com)
 
 <br>
 
